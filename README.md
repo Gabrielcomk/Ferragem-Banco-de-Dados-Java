@@ -2,7 +2,7 @@ Como rodar?
 
 Primeiro, baixe XAMPP.
 
-Ligue ambos Apache e MySQL, abrindo então o seu localhost, pode ser clicando em "Admin" no MySQL.
+Ligue ambos Apache e MySQL, abrindo então o seu localhost, pode ser clicando em "Admin" no MySQL do XAMPP.
 
 Em seguida, abrirá seu Phpmyadmin básico, você deve então criar um Novo banco de dados e nomeá-lo "ferragem".
 
